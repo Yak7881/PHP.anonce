@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: sans-serif;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  nav ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
